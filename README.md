@@ -22,12 +22,10 @@ The program performs basic arithmetic operations based on user input.
 
 ## How to Run
 
-1. Compile the program:
-   javac Calculator.java
-
-2. Run the program:
-   java Calculator
-
+Run your program in online compiler
+Take a screenshot of the output
+Save it as:
+output.png
 ---
 
 ## Sample Output
