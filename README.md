@@ -16,16 +16,18 @@ The program performs basic arithmetic operations based on user input.
 
 ## Technologies Used
 - Java
-- Scanner class for user input
+- Online Compiler (Replit / Programiz)
 
 ---
 
 ## How to Run
 
-Run your program in online compiler
-Take a screenshot of the output
-Save it as:
-output.png
+1. Open an online Java compiler such as Replit or Programiz  
+2. Copy and paste the code into the editor  
+3. Click the "Run" button  
+4. Enter input values when prompted  
+5. View the result in the output console  
+
 ---
 
 ## Sample Output
